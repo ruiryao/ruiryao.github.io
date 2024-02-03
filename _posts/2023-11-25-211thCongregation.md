@@ -5,7 +5,7 @@ author: Your Name
 tags: blog
 date: 2023-11-25
 last_modified_at: 2023-11-25
-toc: true
+toc: false
 ---
 
 On November 24, my adventure began with a journey from Singapore to Shenzhen, marking the start of an unforgettable experience. The following day, I continued my travels from Shenzhen to Hong Kong, embarking on a day filled with excitement and meaningful encounters.
