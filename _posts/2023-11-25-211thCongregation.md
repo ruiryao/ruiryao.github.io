@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "211th Congregation, HKU"
-author: Your Name
+author: Rui Yao
 tags: blog
 date: 2023-11-25
 last_modified_at: 2023-11-25
