@@ -24,4 +24,4 @@ Reflecting on our shared experiences during my master's degree, I couldn't help 
 
 As I journeyed back home, I found myself eagerly anticipating our next reunion, cherishing the memories created in the vibrant city of Hong Kong. Each moment, from the bustling streets to the heartfelt conversations, served as a reminder of the beauty of connection and the promise of future adventures. Until we meet again, Hong Kong!
 
-![placeholder](https://github.com/ruiryao/ruiryao.github.io/blob/master/_posts/image1.jpg "Medium example image")
+![placeholder](https://github.com/ruiryao/ruiryao.github.io/blob/master/_posts/image1.jpg?raw=true "Medium example image")
