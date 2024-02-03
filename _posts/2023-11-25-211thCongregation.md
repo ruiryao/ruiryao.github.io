@@ -1,0 +1,17 @@
+---
+layout: post
+title: "RL GUI"
+author: Rui Yao
+tags: Research
+date: 2022-10-12
+last_modified_at: 2023-11-25
+toc: false
+---
+***Computational Rationality*** contributes to simulating realistic human behavior, providing designers with advanced insights during the design phase and reducing costs associated with cumbersome human testing.
+
+Efforts have been seen in modeling human behavior. However, existing work does not directly empower non-technical experts to apply Computational Rationality. 
+
+In this paper, we investigate the design of environments that support the interaction between non-technical designers and Computational Rationality.
+
+
+![placeholder](https://github.com/ruiryao/ruiryao.github.io/blob/master/_posts/image1.jpg?raw=true "Medium example image")
